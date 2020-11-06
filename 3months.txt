@@ -1,4 +1,6 @@
 3 Months Plans
 - Loss weight to 78 kg
 - Exercise 6 times a week
-- Learn programming
+- Learn .Net VB dan C#
+- Learn php
+- Learn React
