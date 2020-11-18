@@ -1,6 +1,12 @@
-3 Months Plans
+3 Months Plans (Oct sd December 2020
 - Loss weight to 78 kg
 - Exercise 6 times a week
+- Learn 6 hours a week
+- Cash flow management
+
+
+6 hours learning program:
+- Learn Git
 - Learn .Net VB dan C#
 - Learn php
 - Learn React
